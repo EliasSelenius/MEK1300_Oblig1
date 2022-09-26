@@ -1,3 +1,9 @@
+# Authors: group 33
+#   Elias Haneborg 
+#   Nithusha Lions
+#   Mustafa Arslan
+#   Sandra Nestor 
+
 from random import randrange
 
 def getNumberInput():
