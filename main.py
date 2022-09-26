@@ -3,7 +3,6 @@ from random import randrange
 
 def play():
     randomNum = randrange(1, 1000)
-    print("randomNum %d" % (randomNum))
 
     attempts = 0
     while True:    
